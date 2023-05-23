@@ -1,0 +1,74 @@
+.lottery-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+  }
+  
+  .lottery-heading {
+    font-size: 24px;
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .lottery-info {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .lottery-subheading {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .input-label {
+    display: block;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .enter-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .pick-winner-heading {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .pick-winner-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .message {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #333;
+  }
+  
